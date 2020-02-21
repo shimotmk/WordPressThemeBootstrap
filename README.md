@@ -4,6 +4,8 @@ WordPressTheme with Bootstrap
 ## デモ
 https://shimotmk.com/mytheme/
 
+![WordPressTheme with Bootstrap](画像のURL)
+
 ## 説明
 Bootstrapで作ったテーマです。
 Youtubeで解説動画を作りました
