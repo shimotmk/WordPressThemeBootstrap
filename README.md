@@ -15,5 +15,5 @@ https://www.youtube.com/playlist?list=PLv2-sHurmDBtMD5ZGA3abvX2YUTuMXSyP
 ・Bootstrap
 
 ## 環境
-・エックスサーバー 
-・LocalbyFlyWheel
+* エックスサーバー 
+* LocalbyFlyWheel
