@@ -4,7 +4,7 @@ WordPressTheme with Bootstrap
 ## デモ
 https://shimotmk.com/mytheme/
 
-![WordPressTheme with Bootstrap](画像のURL)
+![WordPressTheme with Bootstrap](https://raw.githubusercontent.com/shimotmk/WordPressThemeBootstrap/master/screenshot.png)
 
 ## 説明
 Bootstrapで作ったテーマです。
