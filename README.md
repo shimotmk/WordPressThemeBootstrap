@@ -1,7 +1,7 @@
 # WordPressThemeBootstrap
 WordPressTheme with Bootstrap
 
-# デモ
+## デモ
 https://shimotmk.com/mytheme/
 
 # 説明
