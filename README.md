@@ -11,8 +11,7 @@ Bootstrapで作ったテーマです。
 Youtubeで解説動画を作りました<br>
 
 <a href="https://www.youtube.com/playlist?list=PLv2-sHurmDBtMD5ZGA3abvX2YUTuMXSyP
-"><img src="https://i.ytimg.com/vi/c5rXTbR1SoQ/maxresdefault.jpg" width="80%">
-</a>
+"><img src="https://i.ytimg.com/vi/ioGDSlxSu8A/maxresdefault.jpg" width="80%"></a>
 https://www.youtube.com/playlist?list=PLv2-sHurmDBtMD5ZGA3abvX2YUTuMXSyP
 
 ## 言語
